@@ -1,6 +1,6 @@
 {
   "name": "koajs-nocache",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A koa middleware to add nocache response headers.",
   "main": "index.js",
   "engines": {
